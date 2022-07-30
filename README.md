@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tray3-byte
-- 👀 I’m interested in all things wed development and design.
-- 🌱 I’m currently learning about responsive web development, HTML, CSS and JavaScript.
+- 👀 I’m interested in all things web development/design and programming.
+- 🌱 I’m currently learning about web development using HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Twitter at @tray0_0tray.
 
